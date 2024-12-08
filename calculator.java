@@ -25,7 +25,7 @@ public static void main (String args[])
 Scanner scan = new Scanner(System.in);
 System.out.println("enter numm1:");
 int a = scan.nextInt();
-System.out.println("enter num2:");
+System.out.println("enter nummm2:");
 int b = scan.nextInt();
 Computer cs = new Computer();
 Civil eng = new Civil();
