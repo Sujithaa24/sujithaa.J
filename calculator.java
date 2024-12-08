@@ -23,7 +23,7 @@ class calculator{
 public static void main (String args[])
 {
 Scanner scan = new Scanner(System.in);
-System.out.println("enter num1:");
+System.out.println("enter numm1:");
 int a = scan.nextInt();
 System.out.println("enter num2:");
 int b = scan.nextInt();
