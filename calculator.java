@@ -22,8 +22,8 @@ System.out.println("multi:"+(a*b));
 class calculator{
 public static void main (String args[])
 {
-int a = 10
-int b = 5
+int a = 10;
+int b = 5;
 Computer cs = new Computer();
 Civil eng = new Civil();
 cs.add(a,b);
